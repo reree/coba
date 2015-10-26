@@ -1,0 +1,12 @@
+callback({
+  "meta": {
+    "X-RateLimit-Limit": "60",
+    "X-RateLimit-Remaining": "0",
+    "X-RateLimit-Reset": "1377480094",
+    "X-GitHub-Media-Type": "github.beta",
+    "status": 403
+  },
+  "data": {
+    "message": "API rate limit exceeded for 171.25.193.20. See http://developer.github.com/v3/#rate-limiting for details."
+  }
+})
